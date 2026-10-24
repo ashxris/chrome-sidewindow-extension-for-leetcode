@@ -38,4 +38,12 @@ for LeetCode problem pages.
 | `storage` | Save your width/auto-open preferences locally |
 | `host_permissions: leetcode.com` | Detect LeetCode problem pages for auto-open |
 
+## ☕ Support
+
+If you enjoy **LeetCode + YouTube Docked Sidebar** and want to support my free extensions:
+
+<a href="https://buymeacoffee.com/ashwiinn" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+</a>
+
 
