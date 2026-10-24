@@ -1,4 +1,4 @@
-# LeetCode + YouTube Docked Sidebar
+# Chrome Side Window Extension
 
 A Chrome extension that docks a real, signed-in YouTube window to the edge
 of your screen (1/3 or 1/4 width) so you can watch DSA tutorials while
@@ -40,7 +40,7 @@ for LeetCode problem pages.
 
 ## ☕ Support
 
-If you enjoy **LeetCode + YouTube Docked Sidebar** and want to support my free extensions:
+If you enjoy **Chrome Side Window Extension** and want to support my free extensions:
 
 <a href="https://buymeacoffee.com/ashwiinn" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
